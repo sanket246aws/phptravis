@@ -8,6 +8,7 @@ php:
  
   # aliased to a recent 5.5.x version
   - 5.5
+  - 5.6 
 
 
 
