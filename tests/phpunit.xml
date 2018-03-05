@@ -1,4 +1,4 @@
-<phpunit backupGlobals="true" bootstrap="./wdwdwdphp">
+<phpunit backupGlobals="true" bootstrap="./bootstrap.php">
 	<filter>
 		<whitelist>
 			<directory>/src</directory>
