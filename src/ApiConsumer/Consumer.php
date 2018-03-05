@@ -2,7 +2,6 @@
 namespace ApiConsumer;
 
 #Story #578 | Changes related to user-manger page 
-var $story_id = 46;
 
 /**
  * Simple class/wrapper to allows easy creation of a GET url string to be passed
