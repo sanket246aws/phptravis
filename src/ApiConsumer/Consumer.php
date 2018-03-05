@@ -45,7 +45,7 @@ class Consumer
      */
     public function __construct()
     {
-        $this->params = array();
+        $this->params = array();;
         $this->options = array();
     }
 
