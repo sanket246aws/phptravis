@@ -42,12 +42,7 @@ class Consumer
 
     /**
      * 
-     */
-    public function __construct()
-    {
-        $this->params = array();;
-        $this->options = array();
-    }
+  
 
     /**
      * Resets all variables to prepare for fresh object creation if needed for
