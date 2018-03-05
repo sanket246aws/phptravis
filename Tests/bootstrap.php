@@ -1,6 +1,6 @@
 <?php
 
-function loader($class)
+functdfdion loader($class)
 {
     $file = $class . '.php';
     if (file_exists($file)) {
