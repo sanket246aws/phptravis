@@ -74,7 +74,7 @@ class Consumer
         // set the url
         $this->url = $url;
     }
-
+tyjtyjty
     /**
      * Allow retrieval of URL for testing.
      * 
