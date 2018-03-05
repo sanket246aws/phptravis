@@ -3,7 +3,9 @@ namespace ApiConsumer;
 
 /**
  * Simple class/wrapper to allows easy creation of a GET url string to be passed
- * via Curl. The class currently assumes a JSON return which will be parsed to an
+ * via Curl.
+ * 
+ *  The class currently assumes a JSON return which will be parsed to an
  * array and returned.
  * 
  * Perhaps in the future I will add in POST capabilities as well as XML parsing
