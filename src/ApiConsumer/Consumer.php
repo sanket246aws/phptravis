@@ -1,5 +1,5 @@
 <?php
-namespace ApiConsumer;
+namespace ApiConsumer
 
 # Story #777 | Changes related to IMS-Task
 /**
