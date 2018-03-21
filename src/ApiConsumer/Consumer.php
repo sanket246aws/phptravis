@@ -1,7 +1,7 @@
 <?php
 namespace ApiConsumer
 
-# Story #777 | Changes related to IMS-Task
+# Story #777 ||| Changes related to IMS-Task
 /**
  * Simple class/wrapper to allows easy creation of a GET url string to be passed
  * via Curl. The class currently assumes a JSON return which will be parsed to an
