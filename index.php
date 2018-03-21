@@ -6,7 +6,7 @@ use ApiConsumer\Consumer;
 
 /**
  * The example below uses the API at Active.com to query "Running" activities in
- * Florida with a start date within the next month that meet the query string of
+ * Florida withxxx a start date within the next month that meet the query string of
  * "ultra marathon". It will return a result set of 25 records as set.
  *  this is comment
  * @author Adam Culp http://www.geekyboy.com
